@@ -38,4 +38,10 @@ h1 {
   background-color: var(--red);
 }
 
-
+#element > div {
+    height: 80px;
+    width: 80px;
+    margin: 5px;
+    line-height: 80px;
+    border: 3px solid transparent;
+}
