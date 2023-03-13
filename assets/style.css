@@ -45,3 +45,8 @@ h1 {
     line-height: 80px;
     border: 3px solid transparent;
 }
+
+#element > div:hover {
+    border: 3px solid white;
+    cursor: pointer;
+}
