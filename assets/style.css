@@ -1,0 +1,39 @@
+:root {
+  --petrol: #083b4c;
+  --light-blue: #1389b2;
+  --green: #0cd6a1;
+  --yellow: #ffd166;
+  --red: #f0466f;
+}
+
+/*!GENERICS*/
+
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 55px;
+}
+
+/*!UTILS*/
+
+.bg-custom-petrol {
+  background-color: var(--petrol);
+}
+
+.bg-custom-light-blue {
+  background-color: var(--light-blue);
+}
+
+.bg-custom-green {
+  background-color: var(--green);
+}
+
+.bg-custom-yellow {
+  background-color: var(--yellow);
+}
+
+.bg-custom-red {
+  background-color: var(--red);
+}
